@@ -19,7 +19,7 @@ class MainVC: UIViewController, UITextFieldDelegate {
     let height: CGFloat = 40;
     let margin:CGFloat = 40;
     let textColor = UIColor.whiteColor()
-    let textbackground = UIColor.redColor()
+    let textbackground = UIColor.lightGrayColor()
     let textFont = UIFont.systemFontOfSize(40/1.5, weight: UIFontWeightBold)
     
     
